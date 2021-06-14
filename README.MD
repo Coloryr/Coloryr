@@ -2,6 +2,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=coloryr&show_icons=true">
 </a>
 
+**只想摸鱼**
+
 - 稍微加点这种东西  
 - 嗯也没啥好写的  
 - 有时候写写软件
