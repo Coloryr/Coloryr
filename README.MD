@@ -9,6 +9,8 @@
 - 有时候写写软件
 - 有时候搞搞硬件
 
-![](https://img.shields.io/badge/JAVA-JVM-green)
-![](https://img.shields.io/badge/C%23-.net5-green)
+![](https://img.shields.io/badge/JAVA-JVM-red)
+![](https://img.shields.io/badge/C%23-.net6-green)
+![](https://img.shields.io/badge/Android-JAVA-blue)
+![](https://img.shields.io/badge/Arduino-C++-Yellow)
 ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=coloryr.coloyr.readme)
