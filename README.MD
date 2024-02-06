@@ -13,4 +13,3 @@
 ![](https://img.shields.io/badge/C%23-.net8-green)
 ![](https://img.shields.io/badge/Android-Kotlin-blue)
 ![](https://img.shields.io/badge/Arduino-C++-Yellow)
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=coloryr.coloyr.readme)
